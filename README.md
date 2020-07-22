@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
-**kevoj/kevoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Leo</h1>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevoj&hide=["contribs","prs","issues"])
