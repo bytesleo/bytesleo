@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Leo</h1>
+<img  src="https://github-readme-stats.vercel.app/api?username=kevoj&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align='right'/>
+
+### Hi 👋, I'm Leo
 
 <p align="center">
 <a href=https://codepen.io/kevoj target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="kevoj" height="20" width="20" /></a>
@@ -26,7 +28,5 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
 -->
-
-<img  src="https://github-readme-stats.vercel.app/api?username=kevoj&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" align='right'/>
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevoj&hide=["contribs","prs","issues"])-->
