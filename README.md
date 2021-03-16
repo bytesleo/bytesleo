@@ -1,4 +1,4 @@
-<img  src="https://github-readme-stats.vercel.app/api?username=kevoj&show_icons=true&icon_color=28df99&text_color=ffffff&bg_color=333&hide_title=true" align='right'/>
+<img  src="https://github-readme-stats.vercel.app/api?username=kevoj&show_icons=true&icon_color=28df99&text_color=ffffff&bg_color=111&hide_title=true" align='right'/>
 
 ### Hi 👋, I'm Leo
 
