@@ -2,10 +2,9 @@
 
 ### Hi 👋, I'm Leo
 
-<p align="center">
-<a href=https://codepen.io/kevoj target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="kevoj" height="20" width="20" /></a>
-<a href=https://twitter.com/_kevoj target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="kevoj" height="20" width="20" /></a>
-</p>
+### <a href=https://codepen.io/kevoj target="blank">Codepen</a>
+### <a href=https://twitter.com/_kevoj target="blank">Twitter</a>
+
 <!--
 <p>👨‍💻 Skills:</p>
 <p align="left">
