@@ -2,9 +2,6 @@
 
 ### Hi 👋, I'm Leo
 
-### <a href=https://codepen.io/kevoj target="blank">Codepen</a>
-### <a href=https://twitter.com/_kevoj target="blank">Twitter</a>
-
 <!--
 <p>👨‍💻 Skills:</p>
 <p align="left">
