@@ -9,6 +9,9 @@ Senior Full Stack Developer
 * 🧠  I'm learning WebAssembly
 * 🤝  I'm open to collaborating on any project that helps the community
 
+<a href="https://www.github.com/kevoj" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kevoj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
