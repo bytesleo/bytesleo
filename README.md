@@ -1,7 +1,7 @@
 Hi 👋 My name is Leo
 ====================
 
-Full Stack Developer
+Senior Full Stack Developer
 ---------------------------
 
 * 🌍  I'm based in Colombia
