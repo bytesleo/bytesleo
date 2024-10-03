@@ -9,8 +9,8 @@ Senior Full Stack Developer
 * 🧠  I'm learning WebAssembly
 * 🤝  I'm open to collaborating on any project that helps the community
 
-<a href="https://www.github.com/kevoj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kevoj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/bytesleo" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/bytesleo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -63,6 +63,6 @@ src="https://img.shields.io/github/followers/kevoj?logo=github&style=for-the-bad
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kevoj"><img src="https://github-readme-stats.vercel.app/api?username=kevoj&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kevoj's GitHub stats" /></a>
+<a href="http://www.github.com/bytesleo"><img src="https://github-readme-stats.vercel.app/api?username=bytesleo&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bytesleo's GitHub stats" /></a>
 
-<a href="http://www.github.com/kevoj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevoj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/bytesleo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bytesleo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
